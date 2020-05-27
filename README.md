@@ -1,7 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a counter-app project bootstrapped with React.
 
 To run the project,use:
 
 ### `npm start`
 
-<img src-"Counter-Screenshot.png">
+<img src="Counter-Screenshot.png">
